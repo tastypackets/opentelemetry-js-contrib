@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.11.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-tedious-v0.10.1...instrumentation-tedious-v0.11.0) (2024-06-03)
+
+
+### Features
+
+* **instr-tedious:** add support for v16 and v17 ([#2178](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/2178)) ([8c578cd](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/8c578cd17b25b33390e4237596b9e5cbbc0d0b6d)), closes [#1656](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1656)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @opentelemetry/contrib-test-utils bumped from ^0.39.0 to ^0.40.0
+
 ## [0.10.1](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-tedious-v0.10.0...instrumentation-tedious-v0.10.1) (2024-05-02)
 
 

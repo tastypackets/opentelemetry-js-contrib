@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.41.1](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-aws-sdk-v0.41.0...instrumentation-aws-sdk-v0.41.1) (2024-06-03)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @opentelemetry/propagation-utils bumped from ^0.30.9 to ^0.30.10
+  * devDependencies
+    * @opentelemetry/contrib-test-utils bumped from ^0.39.0 to ^0.40.0
+
 ## [0.41.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-aws-sdk-v0.40.0...instrumentation-aws-sdk-v0.41.0) (2024-04-25)
 
 

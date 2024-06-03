@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.38.2](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-mysql2-v0.38.1...instrumentation-mysql2-v0.38.2) (2024-06-03)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @opentelemetry/contrib-test-utils bumped from ^0.39.0 to ^0.40.0
+
 ## [0.38.1](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-mysql2-v0.38.0...instrumentation-mysql2-v0.38.1) (2024-05-02)
 
 

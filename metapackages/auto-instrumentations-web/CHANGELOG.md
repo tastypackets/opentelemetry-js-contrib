@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.39.1](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/auto-instrumentations-web-v0.39.0...auto-instrumentations-web-v0.39.1) (2024-06-03)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @opentelemetry/instrumentation-document-load bumped from ^0.38.0 to ^0.39.0
+
 ## [0.39.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/auto-instrumentations-web-v0.38.0...auto-instrumentations-web-v0.39.0) (2024-04-25)
 
 

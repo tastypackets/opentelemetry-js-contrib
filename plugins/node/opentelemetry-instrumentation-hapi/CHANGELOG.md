@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.38.1](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-hapi-v0.38.0...instrumentation-hapi-v0.38.1) (2024-06-03)
+
+
+### Bug Fixes
+
+* **instr-hapi:** fix instrumentation of ESM-imported hapi ([#2184](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/2184)) ([265000a](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/265000ae755e13aee82ff5d97a52b307831840ab))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @opentelemetry/contrib-test-utils bumped from ^0.39.0 to ^0.40.0
+
 ## [0.38.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-hapi-v0.37.0...instrumentation-hapi-v0.38.0) (2024-05-02)
 
 
